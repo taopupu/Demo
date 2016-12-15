@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string-array name="names">
+        <item>中通快递</item>
+        <item>申通快递</item>
+        <item>圆通快递</item>
+        <item>顺丰快递</item>
+        <item>韵达快递</item>
+        <item>EMS</item>
+        <item>宅急送</item>
+        <item>全峰快递</item>
+        <item>汇通快递</item>
+        <item>天天快递</item>
+        <item>德邦物流</item>
+    </string-array>
+    <string-array name="phones">
+        <item>95311</item>
+        <item>95543</item>
+        <item>95554</item>
+        <item>95338</item>
+        <item>95546</item>
+        <item>11183</item>
+        <item>400-678-9000</item>
+        <item>400-100-0001</item>
+        <item>400-956-5656</item>
+        <item>400-188-8888</item>
+        <item>95353</item>
+    </string-array>
+</resources>
